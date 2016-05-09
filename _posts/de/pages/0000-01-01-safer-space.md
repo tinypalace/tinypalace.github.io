@@ -10,7 +10,7 @@ Wir sind engagiert, tinypalace zu einem zugänglichem Raum zu machen, unabhängi
 
 Wir tolerieren kein diskriminierendes oder grenzüberschreitendes Verhalten. Darunter fällt:
 
-- Die Verwendung sexistischer, rassistischer, homophobischer, transphobischer, <span class="help" title="Diskriminierend gegenüber Personen mit Behinderung">ableistischer</span> or anders diskriminierender Sprache oder Bilder
+- Die Verwendung sexistischer, rassistischer, homofeindlicher, transfeindlicher, <span class="help" title="Diskriminierend gegenüber Personen mit Behinderung">ableistischer</span> or anders diskriminierender Sprache oder Bilder
 - Beleidigungen, Gewalt, Androhung von Gewalt oder Stalking
 - Ungewolltes oder unangemessenes Anfassen oder Anmachen
 - Personen ohne ihre Erlaubnis fotografieren oder aufnehmen
