@@ -1,17 +1,120 @@
 entry1:
   title: "La forêt"
-  by: ""
-  url: "test"
-  img: "test.png"
+  by: "Yuliya Kozhemyako"
+  url: "https://supr.itch.io/laforet"
+  img: "foret.jpg"
 
 entry2:
   title: "Im null"
-  by: "Zak Ayles & Devin Horsman & Robin Arnott"
+  by: "Zak Ayles (mooosh | 砂漠の娼婦)"
+  bylong: "& Devin Horsman & Robin Arnott"
   url: "http://mooosh.tv/"
-  img: "imnull.png"
+  img: "null.jpg"
 
 entry3:
   title: "INDIA"
-  by: "Zak Ayles & Devin Horsman & Robin Arnott"
-  url: "http://mooosh.tv/"
+  by: "Kazumasa Teshigawara (qubibi)"
+  bylong: "& Ryo Fukuda & Junka Ko & Daisuke Kobayashi (TYOID)"
+  url: "http://qubibi.net/india/"
   img: "india.jpg"
+
+entry4:
+  title: "Hernhand"
+  by: "Jake Clover"
+  url: "http://gamejolt.com/games/bernband"
+  img: "hern.jpg"
+
+entry5:
+  title: "Bernband"
+  by: "Tom van den Boogaart"
+  url: "http://gamejolt.com/games/bernband"
+  img: "bern.png"
+
+entry6:
+  title: "Hurt Me Plenty"
+  by: "Robert Yang"
+  url: "https://radiatoryang.itch.io/hurt-me-plenty"
+  img: "hurt.jpg"
+
+entry6b:
+  title: "Parable of the Polygons"
+  by: "Vi Hart & Nicky Case"
+  url: "http://ncase.me/polygons/"
+  img: "parable.jpg"
+
+entry7:
+  title: "Cartas"
+  by: "Julian Palacios"
+  url: "https://julian-palacios.itch.io/cartas"
+  img: "carta.jpg"
+
+entry8:
+  title: "Borb the Birb"
+  by: "Jeremy Lonien (Ludonaut)"
+  bylong: "& Jake Cataford"
+  url: "https://ludonaut.itch.io/borb-the-birb"
+  img: "borb.jpg"
+
+entry9:
+  title: "Joy Exhibition"
+  by: "Strangethink"
+  digital: "yes"
+  url: "https://strangethink.itch.io/joy-exhibition"
+  img: "joy.png"
+
+entry10:
+  title: "Way to Go"
+  by: "Vincent Morisset"
+  bylong: "& Philippe Lambert & Édouard Lanctôt-Benoit & Caroline Robert (AATOAA)"
+  digital: "yes"
+  url: "http://a-way-to-go.com"
+  img: "waytogo.jpg"
+
+entry11:
+  title: "cartography of known spaces"
+  by: "Loren Schmidt"
+  url: "https://lorenschmidt.itch.io/cartography-of-known-spaces"
+  img: "cartof.png"
+
+entry12a:
+  title: "NORTH"
+  by: "Tristan Neu & Gabriel Helfenstein & Maximilian Borsich (Outlands)"
+  url: "https://outlands.itch.io/north"
+  img: "north.png"
+
+entry12:
+  title: "faithgame"
+  by: "Sergio Cornaga"
+  bylong: "& Matthew Gatland & Elliot Hayward"
+  url: "http://faithgame.herokuapp.com/"
+  img: "faith.png"
+
+entry13:
+  title: "Feeling Feel"
+  by: "Ian Snyder"
+  url: "http://ianiselsewhere.com/feelingfeel.html"
+  img: "feel.png"
+
+entry14:
+  title: "CUBEISM"
+  by: "Patrick Stefaniak"
+  url: "https://sutopat.itch.io/cubeism"
+  img: "cube.jpg"
+
+entry15:
+  title: "GUPPERS"
+  by: "Rowdy Brent Eaton"
+  url: "https://tnerb.itch.io/guppers"
+  img: "gup.png"
+
+entry16:
+  title: "CRIME ZONE"
+  by: "thecatamites"
+  url: "http://harmonyzone.org/CrimeZone.html"
+  img: "crime.png"
+
+entryos:
+  title: "Open Screen"
+  digital: "openscreen"
+  img: "openscreen.jpg"
+  url: "mailto:tinypalace@posteo.de"

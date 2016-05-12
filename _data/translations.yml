@@ -15,6 +15,7 @@ en:
   moreposts: "More posts"
   share: "Share this post on"
   fullprogram: "See the full schedule!"
+  games1: "Exhibition details"
 de:
   created: "Veröffentlicht am"
   author: "von"
@@ -32,3 +33,4 @@ de:
   moreposts: "Mehr posts"
   share: "Teile diesen Post auf"
   fullprogram: "Komplette Übersicht!"
+  games1: "Ausstellungsübersicht"

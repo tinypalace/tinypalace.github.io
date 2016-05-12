@@ -50,12 +50,13 @@
   <div class="container">
   <div class="box-bar"><img src="/assets/elements/blob2.png"></div>
   <h1>{{site.data.translations[page.lang].box-title-2}}</h1>
-  
-  {% if page.lang == "de" %}
-  <p>The full exhibition list will be announced soon!!</p>
-  {% else %}
-  <p>The full exhibition list will be announced soon!</p>
-  {% endif %}
+  <div class="box-games">
+    {% for games in site.data.games %}
+    <div class="ggg"><a href="{{ games[1].url }}" target="_blank" class="ggg-inner" style="background-image: url('{{ site.baseurl }}/assets/img/{{ games[1].img }}')">{{ games[1].title }}</a></div>
+    {% endfor %}
+  </div>
+   <p class="open-call-but"><a href="{{ site.baseurl }}/{% if page.lang == "de" %}de/{% endif %}exhibition">{{site.data.translations[page.lang].games1}}</a>
+   </p>
   </div>
 </div>
 <div class="box2">
@@ -67,9 +68,8 @@
     {% if page.lang == "de" %}
     <div class="fourth">
     <p><b>Ort</b></p>
-    <p><b>Interim</b></br>
-    Franz-Ulrich-Straße 16</br>
-    Kassel</br>
+    <p><b>Interim &amp; Stellwerk</b></br>
+    Hauptbahnhof Kassel</br>
     <a href="/de/location">➡ Karte anzeigen</a></p>
     </div>
     <div class="fourth">
@@ -89,8 +89,8 @@
     {% else %}
     <div class="fourth">
     <p><b>Location</b></p>
-    <p><b>Interim</b></br>
-    Franz-Ulrich-Straße 16</br>
+    <p><b>Interim &amp; Stellwerk</b></br>
+    Hauptbahnhof</br>
     Kassel, Germany</br>
     <a href="/location">➡ See the map</a></p>
     </div>

@@ -871,7 +871,6 @@ a.collapsed:before
 
 .box-games {
   width:100%;
-  margin: -0.5rem;
 
 }
 
@@ -883,28 +882,54 @@ a.collapsed:before
 
 .ggg {
   float: left;
-  width: 50%;
-  display: inline-block;
-  margin: 0.5rem;
+  position: relative;
   background-color: white;
+  transition: transform .2s ease;
 }
+
+    
+.ggg:hover {
+  transform: rotate(5deg);
+}
+
+
+.ggg:before {
+    content: "";
+    display: block;
+    padding-top: 100%;
+}
+
+.ggg { width: 32.333%; margin: 0.5%; font-size: 4rem; }
+
+@media (min-width: 30em) {
+  .ggg { width: 19%; margin: 0.5%; font-size: 4rem; } }
+
+@media (min-width: 76em) {
+  .ggg { width: 19%; margin: 0.5%; font-size: 5rem; } }
 
 a.ggg-inner {
   width: 100%;
+  height: 100%;
   display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
 
   transition: opacity .2s ease;
   opacity: 1;
   border: none;
+  background-size: cover;
+  background-position: center;
 
   color: transparent;
   font-family: polaris, sans-serif;
   font-weight: 300;
-  font-size: 3rem;
-  line-height: 1.25;
+  line-height: 0.9;
   text-rendering: optimizeLegibility;
   text-transform: lowercase;
-  letter-spacing: 0.1rem;
+  word-break: break-all;
+
+  overflow: hidden;
 }
 
 a.ggg-inner:hover {
