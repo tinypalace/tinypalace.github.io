@@ -47,7 +47,9 @@ en:
       time: "18:30 - 19:00"
       type: "Magic"
       by: "tinypalace"
-      detail: "As part of our research for our upcoming game installation, we'll walk you through virtual bathrooms & talk about intimacy in games and real life."
+      bylong: "Jasper & Isi (tinypalace)"
+      detail: "As part of our research for our upcoming game installation, we'll walk you through virtual bathrooms & talk about intimacy in games and real life.<br><a href='https://twitter.com/jaspermeiners' target='_blank'>@jaspermeiners</a><br><a href='https://twitter.com/isipaehr' target='_blank'>@isipaehr</a>"
+      url: "http://www.thetopicbird.com/"
 
     entry7:
       title: "Evening Program & Fun"
@@ -193,7 +195,7 @@ de:
 
     entry5:
       title: "Achievement Machine"
-      time: "TBD"
+      time: "15:30 - 16:30"
       type: "Vortrag"
       by: "Pixeldiskurs"
       bylong: "Heiko Schmelz und Stefan Simond (Pixeldiskurs)"
@@ -217,7 +219,9 @@ de:
       time: "18:30 - 19:00"
       type: "Magic"
       by: "tinypalace"
-      detail: "As part of our research for our upcoming game installation, we'll walk you through virtual bathrooms & talk about intimacy in games and real life."
+      bylong: "Jasper & Isi (tinypalace)"
+      detail: "As part of our research for our upcoming game installation, we'll walk you through virtual bathrooms & talk about intimacy in games and real life.<br><a href='https://twitter.com/jaspermeiners' target='_blank'>@jaspermeiners</a><br><a href='https://twitter.com/isipaehr' target='_blank'>@isipaehr</a>"
+      url: "http://www.thetopicbird.com/"
 
     entry7:
       title: "Abendprogramm & Fun"

@@ -35,12 +35,6 @@ entry6:
   url: "https://radiatoryang.itch.io/hurt-me-plenty"
   img: "hurt.jpg"
 
-entry6b:
-  title: "Parable of the Polygons"
-  by: "Vi Hart & Nicky Case"
-  url: "http://ncase.me/polygons/"
-  img: "parable.jpg"
-
 entry7:
   title: "Cartas"
   by: "Julian Palacios"
@@ -54,32 +48,11 @@ entry8:
   url: "https://ludonaut.itch.io/borb-the-birb"
   img: "borb.jpg"
 
-entry9:
-  title: "Joy Exhibition"
-  by: "Strangethink"
-  digital: "yes"
-  url: "https://strangethink.itch.io/joy-exhibition"
-  img: "joy.png"
-
-entry10:
-  title: "Way to Go"
-  by: "Vincent Morisset"
-  bylong: "& Philippe Lambert & Édouard Lanctôt-Benoit & Caroline Robert (AATOAA)"
-  digital: "yes"
-  url: "http://a-way-to-go.com"
-  img: "waytogo.jpg"
-
 entry11:
   title: "cartography of known spaces"
   by: "Loren Schmidt"
   url: "https://lorenschmidt.itch.io/cartography-of-known-spaces"
   img: "cartof.png"
-
-entry12a:
-  title: "NORTH"
-  by: "Tristan Neu & Gabriel Helfenstein & Maximilian Borsich (Outlands)"
-  url: "https://outlands.itch.io/north"
-  img: "north.png"
 
 entry12:
   title: "faithgame"
@@ -106,11 +79,41 @@ entry15:
   url: "https://tnerb.itch.io/guppers"
   img: "gup.png"
 
+entry6b:
+  title: "Parable of the Polygons"
+  by: "Vi Hart & Nicky Case"
+  url: "http://ncase.me/polygons/"
+  img: "parable.jpg"
+  digital: "yes"
+
+entry9:
+  title: "Joy Exhibition"
+  by: "Strangethink"
+  digital: "yes"
+  url: "https://strangethink.itch.io/joy-exhibition"
+  img: "joy.png"
+
+entry10:
+  title: "Way to Go"
+  by: "Vincent Morisset"
+  bylong: "& Philippe Lambert & Édouard Lanctôt-Benoit & Caroline Robert (AATOAA)"
+  digital: "yes"
+  url: "http://a-way-to-go.com"
+  img: "waytogo.jpg"
+
+entry12a:
+  title: "NORTH"
+  by: "Tristan Neu & Gabriel Helfenstein & Maximilian Borsich (Outlands)"
+  url: "https://outlands.itch.io/north"
+  img: "north.png"
+  digital: "yes"
+
 entry16:
   title: "CRIME ZONE"
   by: "thecatamites"
   url: "http://harmonyzone.org/CrimeZone.html"
   img: "crime.png"
+  digital: "yes"
 
 entryos:
   title: "Open Screen"
