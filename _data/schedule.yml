@@ -82,6 +82,7 @@ en:
 
     entry11:
       title: "Physis"
+      titlelong: "Physis - Körperlichkeit und digitale Spiele"
       time: "14:30 - 15:30"
       type: "Talk"
       by: "Creative Gaming"
@@ -130,7 +131,7 @@ wird das Thema zugespitzt."
 
     entry16:
       title: "Parrrr(~^_^)~rrty"
-      detail: "Dj* sets and bands.<br><b>We'll announce the full playlist soon! :)</b>"
+      detail: "Dj* sets:<br><b>Julia<br>Annka<br>Fredi Sirocco<br>Alex</b>"
       time: "20:30"
 
   sunday:
@@ -254,6 +255,7 @@ de:
 
     entry11:
       title: "Physis"
+      titlelong: "Physis - Körperlichkeit und digitale Spiele"
       time: "14:30 - 15:30"
       type: "Vortrag"
       by: "Creative Gaming"
@@ -301,7 +303,7 @@ de:
 
     entry16:
       title: "Parrrr(~^_^)~rrty"
-      detail: "Dj* Sets und Bands.<br><b>Die komplette Playlist gibts bald! :)</b>"
+      detail: "Dj* Sets:<br><b>Julia<br>Annka<br>Fredi Sirocco<br>Alex</b>"
       time: "20:30"
 
   sunday:
