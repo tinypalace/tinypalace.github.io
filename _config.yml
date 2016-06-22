@@ -13,6 +13,7 @@ title:            tinypalace
 tagline:          'games festival'
 description:      '(╯°□°）╯︵ ┻━┻'
 url:              http://tinypalace.de
+timezone:         'Europe/Andorra'
 baseurl:
 
 author:
