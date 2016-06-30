@@ -14,3 +14,5 @@ lang: de
 <a href="/assets/img/2016/5/P1080995.jpg" target="_blank"><img src="/assets/img/2016/5/P1080995.jpg"></a>
 <a href="/assets/img/2016/5/P1080892.jpg" target="_blank"><img src="/assets/img/2016/5/P1080892.jpg"></a>
 </div>
+
+Ein riesen Dankeschön an <a href="https://twitter.com/sofakissen" target="_blank">@sofakissen</a> für die vielen schönen Bilder!

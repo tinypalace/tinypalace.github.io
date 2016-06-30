@@ -15,3 +15,5 @@ lang: en
 <a href="/assets/img/2016/2/P1080929.jpg" target="_blank"><img src="/assets/img/2016/2/P1080929.jpg"></a>
 <a href="/assets/img/2016/2/P1090015.jpg" target="_blank"><img src="/assets/img/2016/2/P1090015.jpg"></a>
 </div>
+
+A big thanks to <a href="https://twitter.com/sofakissen" target="_blank">@sofakissen</a> for providing a lot of the pictures!
