@@ -1,3 +1,3 @@
 #tinypalace
 
-> [http://tinypalace.de](tinypalace.de)
+> [https://tinypalace.github.io](https://tinypalace.github.io)
