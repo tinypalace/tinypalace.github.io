@@ -493,7 +493,7 @@ img.emoji {
   z-index: 1010;
   position: fixed;
   padding: 7rem 0 2rem 0;
-  background-color: #252239;
+  background-color: none;
   transform: rotate(1deg);
   width: 110%;
   margin-left: -5%;
@@ -515,7 +515,7 @@ img.emoji {
 
 .sidebar.topp {
   padding: 6rem 0 1rem 0;
-  background-color: #252239;
+  background-color: none;
 }
 
 .foo-magic {
