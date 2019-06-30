@@ -444,7 +444,7 @@ img.emoji {
 }
 
 .photogalerie img:hover, .photogalerie img:focus, .startttt img:hover, .startttt img:focus {
-  transform: scale(1.1) rotate(5deg);
+  transform: scale(1.1) rotate(1deg);
   border-bottom: none;
 }
 
