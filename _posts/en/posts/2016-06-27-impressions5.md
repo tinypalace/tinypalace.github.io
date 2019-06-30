@@ -46,7 +46,7 @@ lang: en
 <a href="/assets/img/2016/5/IMGP0631.jpg" target="_blank"><img src="/assets/img/2016/5/IMGP0631.jpg"></a>
 <a href="/assets/img/2016/5/P1080944.jpg" target="_blank"><img src="/assets/img/2016/5/P1080944.jpg"></a>
 <a href="/assets/img/2016/5/IMGP0484.jpg" target="_blank"><img src="/assets/img/2016/5/IMGP0484.jpg"></a>
-/*ha, this one might be a bit too confusing in retrospect ;> <a href="/assets/img/2016/5/IMG_20160521_131645.jpg" target="_blank"><img src="/assets/img/2016/5/IMG_20160521_131645.jpg"></a>*/
+<!--ha, this one might be a bit too confusing in retrospect ;> <a href="/assets/img/2016/5/IMG_20160521_131645.jpg" target="_blank"><img src="/assets/img/2016/5/IMG_20160521_131645.jpg"></a>-->
 <a href="/assets/img/2016/5/P1080995.jpg" target="_blank"><img src="/assets/img/2016/5/P1080995.jpg"></a>
 <a href="/assets/img/2016/5/P1080892.jpg" target="_blank"><img src="/assets/img/2016/5/P1080892.jpg"></a>
 </div>
