@@ -12,7 +12,7 @@ gems:
 title:            tinypalace
 tagline:          'games festival'
 description:      '(╯°□°）╯︵ ┻━┻'
-url:              http://tinypalace.de
+url:              https://tinypalace.github.io
 timezone:         'Europe/Andorra'
 baseurl:
 
@@ -41,7 +41,7 @@ defaults:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://tinypalace.de'
+  siteurl: 'https://tinypalace.github.io'
   media: 'assets/img'
   ignore:
     - 0000-01-01-index.md
